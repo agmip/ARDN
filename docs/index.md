@@ -2,7 +2,7 @@
 
 There is a major gap between the potential value of data collected in agricultural experiments and the value currently obtained through use of those data. Typically, data collected in experiments are used for the original research purpose only. Vastly greater value might be obtained if the data were combined across locations, time, and management conditions. The Agricultural Research Data Network provides tools and protocols to allow researchers to not only share their data, but to make their data interoperable and reusable. Additional tools allow end users of the data to combine and reformat ARDN data for quantitative analysis and modeling.
 
-For more information, see [About ARDN](About/About_ARDN.md)
+For more information, see [About ARDN](About_ARDN.md)
 
 
 ## What is ARDN?
@@ -39,9 +39,9 @@ The ARDN data interoperability system is comprised of tools (orange boxes in dia
 The tools are used to create the annotation files (Sidecar files 1, 2, and 3), the AgMIP format data file (ACEB), and the data in user-selected output formats (End User files).
 A data provider uses the VMapper tool to map the variables in their data. Currently Excel and csv formats are supported by VMapper. 
 
-![image](images/ARDN_workflows_v2.png)
+![image](./images/ARDN_workflows_v2.png)
 
 -	Data user workflow diagram and description. Link to Procedures for ARDN Data End Users
 -	Data provider workflow diagram and description. Link to Procedures for ARDN Data Providers
 
-For more information, see [About ARDN](About/About_ARDN.md)
+For more information, see [About ARDN](About_ARDN.md)
