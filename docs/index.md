@@ -15,14 +15,14 @@ For more information, see [About ARDN](About_ARDN.md)
 
 **Data Interoperability Protocol**: Datasets in ARDN are connected by a common protocol for annotating data which allows the data to be interpreted in an automated way. 
 1. Data annotation tools allow data providers to associate their data with ARDN. 
-    a. Annotation consists of three sidecar files, which are extended metadata. To read more about the ARDN sidecar files, see ARDN data annotation.
-    b. The VMapper tool assists a data provider to create ARDN sidecar file 2. To learn more, see the VMapper documentation.
+    - Annotation consists of three sidecar files, which are extended metadata. To read more about the ARDN sidecar files, see ARDN data annotation.
+    - The VMapper tool assists a data provider to create ARDN sidecar file 2. To learn more, see the VMapper documentation.
 2. Data translation tools allow conversion of ARDN datasets to various end user formats.
 
 ## Who are ARDN users?
 ARDN users fall into two categories:
-- ARDN data providers have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to ARDN-ify their data thereby making these datasets reusable.
-- End users of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
+1. ARDN **data providers** have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to ARDN-ify their data thereby making these datasets reusable.
+2. **End users** of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
 ## Related Networks
 ARDN has been implemented on [Ag Data Commons](https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
