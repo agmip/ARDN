@@ -2,7 +2,7 @@
 
 There is a major gap between the potential value of data collected in agricultural experiments and the value currently obtained through use of those data. Typically, data collected in experiments are used for the original research purpose only. Vastly greater value might be obtained if the data were combined across locations, time, and management conditions. The Agricultural Research Data Network provides tools and protocols to allow researchers to not only share their data, but to make their data interoperable and reusable. Additional tools allow end users of the data to combine and reformat ARDN data for quantitative analysis and modeling.
 
-For more information, see [About ARDN](About_ARDN.md)
+For more information, see [About ARDN](About/About_ARDN.md)
 
 
 ## What is ARDN?
