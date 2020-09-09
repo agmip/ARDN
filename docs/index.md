@@ -22,43 +22,21 @@ ARDN users fall into two categories:
 -	ARDN data providers have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to ARDN-ify their data thereby making these datasets reusable.
 -	End users of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
+## Related Networks
+ARDN has been implemented on Ag Data Commons, the data and publication portal of the USDA National Agricultural Library. Compatible data interoperability standards are also being developed and implemented on the CGIAR GARDIAN platform and by the International Fertilizer Data Center (IFDC).
+For more information, visit the About ARDN page.
+
+## What ARDN is NOT:
+ARDN does not (yet) include data from other agricultural domains such as livestock, pest and diseases, aquaculture, socioeconomics, and genetics. Similar methods could be developed for these domains. 
+ARDN is mainly developed for quantitative data that are used in modeling and analytics. It is less useful for categorical data, such as color, or categorical scales of damage, or other information. 
+ARDN is most useful for “legacy” data where the format and vocabulary of the dataset are not standardized. We hope that in the future, datasets are collected from the field using standardized vocabularies and ontologies so that the ARDN data annotation method is no longer needed. But until then, we offer these interoperability hacks!
+
+## How does it work?
+The ARDN data interoperability system is comprised of tools (orange boxes in diagram), and files (blue boxes). 
+The tools are used to create the annotation files (Sidecar files 1, 2, and 3), the AgMIP format data file (ACEB), and the data in user-selected output formats (End User files).
+A data provider uses the VMapper tool to map the variables in their data. Currently Excel and csv formats are supported by VMapper. 
 
 
 
 
 
-You can use the [editor on GitHub](https://github.com/agmip/ARDN.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agmip/ARDN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
