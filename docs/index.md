@@ -25,8 +25,8 @@ ARDN users fall into two categories:
 -	End users of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
 ## Related Networks
-ARDN has been implemented on [Ag Data Commons] (https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
-Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN] (https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Data Center] (https://ifdc.org/) (IFDC).
+ARDN has been implemented on [Ag Data Commons](https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
+Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Data Center](https://ifdc.org/) (IFDC).
 For more information, visit the About ARDN page.
 
 ## What ARDN is NOT:
