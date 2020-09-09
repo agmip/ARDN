@@ -23,7 +23,8 @@ ARDN users fall into two categories:
 -	End users of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
 ## Related Networks
-ARDN has been implemented on Ag Data Commons, the data and publication portal of the USDA National Agricultural Library. Compatible data interoperability standards are also being developed and implemented on the CGIAR GARDIAN platform and by the International Fertilizer Data Center (IFDC).
+ARDN has been implemented on [Ag Data Commons] (https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
+Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN] (https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Data Center] (https://ifdc.org/) (IFDC).
 For more information, visit the About ARDN page.
 
 ## What ARDN is NOT:
@@ -36,8 +37,9 @@ The ARDN data interoperability system is comprised of tools (orange boxes in dia
 The tools are used to create the annotation files (Sidecar files 1, 2, and 3), the AgMIP format data file (ACEB), and the data in user-selected output formats (End User files).
 A data provider uses the VMapper tool to map the variables in their data. Currently Excel and csv formats are supported by VMapper. 
 
-
 ![Image](https://github.com/agmip/ARDN/blob/master/docs/AgMIP%20ARDN%20tools%20diagram_v2.jpg)
 
+-	Data user workflow diagram and description. Link to Procedures for ARDN Data End Users
+-	Data provider workflow diagram and description. Link to Procedures for ARDN Data Providers
 
-
+For more information, see [About](About_ARDN.md)
