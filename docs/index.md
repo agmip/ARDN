@@ -26,7 +26,7 @@ ARDN users fall into two categories:
 
 ## Related Networks
 ARDN has been implemented on [Ag Data Commons](https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
-Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Data Center](https://ifdc.org/) (IFDC).
+Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Development Center](https://ifdc.org/) (IFDC).
 For more information, visit the About ARDN page.
 
 ## What ARDN is NOT:
