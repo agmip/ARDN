@@ -15,8 +15,8 @@ Similar agricultural research data networks, using protocols that are compatible
 A widely adopted ARDN will increase research efficiency by reducing the need for new field experiments while giving credit to researchers who contribute data to the network. Data intensive research will be possible using data mining and AI techniques using a data source with consistent vocabulary and formats and unambiguous meanings. This new source of data will facilitate model improvement including advances in gene-based model development.
 -	Describe work with AgMIP, CGIAR, NAL, NIFA grant with partners
 
-## Funding sources: This effort was funded by grants from 
--	USDA NIFA, Award #2019-67021-29921 – development of data tools, refinement of data annotation formats, implementation of ARDN on Ag Data Commons, preparation of initial ADC ARDN data
--	International Food Policy Research Institute, Research Agreement No. 2018X212.UOF – design of initial data annotation protocols and development of translator API, implementation of ARDN on GARDIAN
--	IFDC AGR DTD 08-03-2018 - VMapper testing and debugging
--	AgMIP DFID / USDA 59-3625-1-745 and 59-5030-5-018 - design of ACE format and development of original AgMIP translators for crop model users
+**Funding sources**: This effort was funded by grants from 
+- USDA NIFA, Award #2019-67021-29921 – development of data tools, refinement of data annotation formats, implementation of ARDN on Ag Data Commons, preparation of initial ADC ARDN data
+- International Food Policy Research Institute, Research Agreement No. 2018X212.UOF – design of initial data annotation protocols and development of translator API, implementation of ARDN on GARDIAN
+- IFDC AGR DTD 08-03-2018 - VMapper testing and debugging
+- AgMIP DFID / USDA 59-3625-1-745 and 59-5030-5-018 - design of ACE format and development of original AgMIP translators for crop model users

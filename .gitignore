@@ -18,6 +18,7 @@ Makefile
 *.tlb
 *.tlh
 *.bak
+*.docx
 *.bat
 *.cache
 *.ilk
