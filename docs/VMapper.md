@@ -8,6 +8,6 @@ this is the image using MD
 
 
 this is relative path
-![image](images/ARDN_workflows_v2.jpg?raw=true)
+![image](images/ARDN_workflows_v2.jpg)
 
 
