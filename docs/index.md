@@ -43,10 +43,4 @@ A data provider uses the VMapper tool to map the variables in their data. Curren
 
 
 
-## Data user workflows
-*Link to Procedures for ARDN Data End Users*
 
-## Data provider workflows
-*Link to Procedures for ARDN Data Providers*
-
-For more information, see [About ARDN](About_ARDN.md)
