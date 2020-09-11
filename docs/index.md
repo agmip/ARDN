@@ -29,9 +29,9 @@ We hope that in the future, datasets are collected from the field using standard
   
 ## How does it work?
 Detailed information about ARDN protocols, workflows, and tools can be accessed [here](ARDN_how) and from the following links:
-- [ARDN dataset annotation](Annotation)
+- [ARDN dataset annotation](Annotation.md)
 - AgMIP data format
-- [ICASA vocabulary](ICASA)
+- [ICASA vocabulary](ICASA.md)
 
 
 
