@@ -1,4 +1,4 @@
-# About ARDN
+# Why ARDN?
 
 Agricultural research data are potentially a valuable source of novel research information, particularly if made Findable, Accessible, Interoperable, and Reusable. 
 
@@ -13,7 +13,6 @@ Researchers, data scientists and programmers at the University of Florida and th
 Similar agricultural research data networks, using protocols that are compatible to ARDN, are being developed for the [Platform for Big Data in Agriculture](https://bigdata.cgiar.org/) and the [International Fertilizer Development Center (IFDC)](https://ifdc.org) increasing the supply of data from international research that can contribute to ARDN.
 
 A widely adopted ARDN will increase research efficiency by reducing the need for new field experiments while giving credit to researchers who contribute data to the network. Data intensive research will be possible using data mining and AI techniques using a data source with consistent vocabulary and formats and unambiguous meanings. This new source of data will facilitate model improvement including advances in gene-based model development.
--	Describe work with AgMIP, CGIAR, NAL, NIFA grant with partners
 
 **Funding sources**: This effort was funded by grants from 
 - USDA NIFA, Award #2019-67021-29921 – development of data tools, refinement of data annotation formats, implementation of ARDN on Ag Data Commons, preparation of initial ADC ARDN data
