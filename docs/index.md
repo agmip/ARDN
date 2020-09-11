@@ -43,7 +43,7 @@ A data provider uses the VMapper tool to map the variables in their data. Curren
 
 <!-- Comment ![image](images/ARDN_workflows_v2.jpg?raw=true)-->
 
-<img src="images/ARDN_workflows_v2.png" alt="hi" class="inline"/>
+<img src="docs/images/ARDN_workflows_v2.png" alt="hi" class="inline"/>
 
 This is the last line of text.
 
