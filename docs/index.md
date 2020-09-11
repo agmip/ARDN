@@ -35,15 +35,5 @@ For more information, visit the [About ARDN](About_ARDN.md) page.
 - ARDN is most useful for “legacy” data where the format and vocabulary of the dataset are not standardized. 
 
 We hope that in the future, datasets are collected from the field using standardized vocabularies and ontologies so that the ARDN data annotation method is no longer needed. But until then, we offer these interoperability hacks!
-  
-## How does it work?
-The ARDN data interoperability system is comprised of tools (orange boxes in diagram), and files (blue boxes). 
-The tools are used to create the annotation files (Sidecar files 1, 2, and 3), the AgMIP format data file (ACEB), and the data in user-selected output formats (End User files).
-A data provider uses the VMapper tool to map the variables in their data. Currently Excel and csv formats are supported by VMapper. 
 
-<!-- Comment ![image](images/ARDN_workflows_v2.jpg?raw=true)-->
-
-<img src="images/ARDN_workflows_v2.png" alt="hi" class="inline"/>
-
-This is the last line of text.
 
