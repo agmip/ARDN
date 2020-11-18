@@ -8,6 +8,7 @@ For more information, see [Why ARDN?](ARDN_why.md)
 
 ## What is ARDN?
 **Data Network**: ARDN is a network of datasets which can be harmonized and aggregated using a common vocabulary and format. 
+
 **Data Interoperability Protocol**: Datasets in ARDN are connected by a common protocol for annotating data which allows the data to be interpreted in an automated way. 
 More information, see [What is ARDN?](ARDN_what).
 
