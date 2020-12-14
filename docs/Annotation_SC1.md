@@ -4,5 +4,5 @@ Sidecar file 1 (SC1) provides a map of column data headers to ontology terms fro
 
 The following is a partial SC1 for the [“TAMASA Ethiopia. Variety phenology calibration dataset, 2016”](https://gardian.bigdata.cgiar.org/dataset.php?id=5cd88b72317da7f1ae0cf390#!/). The file has been shortened for brevity. The entire file may be viewed [here](https://github.com/agmip/gardian_metadata/blob/master/TAMASA/tamasa-sc1.json).
 
-![image](https://github.com/agmip/ARDN/blob/master/docs/images/SC1.jpg)
+![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/SC1.jpg)
 <!-- Comment ![image]/images/SC1.jpg)-->
