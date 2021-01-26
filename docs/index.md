@@ -10,7 +10,7 @@ For more information, see [Why ARDN?](ARDN_why.md)
 **Data Network**: ARDN is a network of datasets which can be harmonized and aggregated using a common vocabulary and format. 
 
 **Data Interoperability Protocol**: Datasets in ARDN are connected by a common protocol for annotating data which allows the data to be interpreted in an automated way. 
-More information, see [What is ARDN?](ARDN_what).
+More information, see [What is ARDN?](ARDN_what.md).
 
 ## Who are ARDN users?
 ARDN **data providers** have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to "ARDN-ify" their data thereby making these datasets reusable.
@@ -18,7 +18,7 @@ ARDN **data providers** have data that they wish to make available to researcher
 **End users** of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
 There are several **data portals** that are implementing ARDN protocols. ARDN has been implemented on [Ag Data Commons](https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
-Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Development Center](https://ifdc.org/) (IFDC).
+Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Development Center (IFDC)](https://ifdc.org/).
 For more information, see [Why ARDN?](ARDN_why.md).
 
 ## What ARDN is NOT:
@@ -29,10 +29,10 @@ For more information, see [Why ARDN?](ARDN_why.md).
 We hope that in the future, datasets are collected from the field using standardized vocabularies and ontologies so that the ARDN data annotation method is no longer needed. But until then, we offer these interoperability hacks!
   
 ## How does ARDN work?
-Detailed information about ARDN protocols, workflows, and tools can be accessed [here](ARDN_how) and from the following links:
+Detailed information about ARDN protocols, workflows, and tools can be accessed [here](ARDN_how.md) and from the following links:
 - [ARDN dataset annotation](Annotation.md)
 - AgMIP data format
 - [ICASA vocabulary](ICASA.md)
 
 ## ARDN Glossary and References
-A list of ARDN terms, acronyms, and related references can be found [here](Glossary).
+A list of ARDN terms, acronyms, and related references can be found [here](Glossary.md).
