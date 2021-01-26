@@ -5,3 +5,4 @@ The tools are used to create the annotation files (Sidecar files 1, 2, and 3), t
 A data provider uses the VMapper tool to map the variables in their data. Currently Excel and csv formats are supported by VMapper.
 
 ![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images//AgMIP_workflows.jpg)
+<!-- Comment ![image]/images/AgMIP_workflows.jpg)-->
