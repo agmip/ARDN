@@ -28,11 +28,11 @@ For more information, see [Why ARDN?](ARDN_why.md).
 
 We hope that in the future, datasets are collected from the field using standardized vocabularies and ontologies so that the ARDN data annotation method is no longer needed. But until then, we offer these interoperability hacks!
   
-## How does it work?
+## How does ARDN work?
 Detailed information about ARDN protocols, workflows, and tools can be accessed [here](ARDN_how) and from the following links:
 - [ARDN dataset annotation](Annotation.md)
 - AgMIP data format
 - [ICASA vocabulary](ICASA.md)
 
-
-
+## ARDN Glossary and References
+A list of ARDN terms, acronyms, and related references can be found here.
