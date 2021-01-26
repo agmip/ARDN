@@ -35,4 +35,4 @@ Detailed information about ARDN protocols, workflows, and tools can be accessed 
 - [ICASA vocabulary](ICASA.md)
 
 ## ARDN Glossary and References
-A list of ARDN terms, acronyms, and related references can be found here.
+A list of ARDN terms, acronyms, and related references can be found [here](Glossary).
