@@ -4,10 +4,14 @@ ARDN data transformations, aggregations, and translations are made possible by a
 
 The ARDN data interoperability system is comprised of four interacting workflows as shown in the diagram below. In these workflows, tools (orange boxes) are used to create annotation files and AgMIP format files (blue parallelograms) from the original dataset. 
 
-![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images//AgMIP_workflows.jpg)
+<font color="red"> < image for workflows goes here > </font>
+<!-- this figure does not build correctly, so temporarily remove it 
+<!--[image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/AgMIP_workflows.jpg)
 <!-- Comment ![image]/images/AgMIP_workflows.jpg)-->
 
-The "Data Provider Tools" include [VMapper](VMapper.md), which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production.
+The "Data Provider Tools" include [VMapper](VMapper.md), which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production. 
+
+We strongly suggest the use of Tidy Data principles for preparing datasets to be used for any type of analyses. Links to tidy data paper and other useful information can be found **[here](TidyData.md)**.
 
 The "Data Tranlsation API" performs all translation functions, including conversion of a dataset to AgMIP ACEB format, translation from ACEB format to end-user formats, and extraction of a subset of data to be included in Sidecar File 3 (SC3).
 
@@ -15,7 +19,7 @@ The "Data Tranlsation API" performs all translation functions, including convers
 
 "ARDN Data End-User Tools" are a suite of translators which convert data from AgMIP ACEB format to various model-specific formats. These translators were originally developed by AgMIP and are maintained by the model developer teams for each model.
 
-## Links to additional resources for data providers:
+### Links to additional resources for data providers:
 - [VMapper](VMapper.md)
 - [ICASA Data Dictionary](http:/tinyurl.com/icasa-mvl)
 
