@@ -10,5 +10,5 @@ The "Data Tranlsation API" performs all translation functions, including convers
 
 "ARDN Data End-User Tools" are a suite of translators which convert data from AgMIP ACEB format to various model-specific formats. These translators were originally developed by AgMIP and are maintained by the model developer teams for each model.
 
-![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images//AgMIP_workflows.jpg)
+<!--[image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images//AgMIP_workflows.jpg)-->
 <!-- Comment ![image]/images/AgMIP_workflows.jpg)-->
