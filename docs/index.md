@@ -40,7 +40,7 @@ The primary component of ARDN annotation is **Sidecar file 2**, which allows the
 **Sidecar file 3** contains a subset of the data in a dataset in a tabular format and summary statistics for the dataset. This allows the data portal to conduct rapid, complex searches on the contents of the data without accessing or interpreting the data.
 
 Detailed information about ARDN protocols, workflows, and tools can be accessed **[here](ARDN_how.md)** and from the following links:
-- <!--[ARDN dataset annotation](Annotation.md)-->
+- [ARDN dataset annotation](Annotation.md)
 - AgMIP data format
 - <!--[ICASA vocabulary](ICASA.md) -->
 
