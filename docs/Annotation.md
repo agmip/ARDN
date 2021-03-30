@@ -25,7 +25,7 @@ where "column_index": 22 refers to the header for the column of data containing 
 
 In addition to variable mapping, SC1 files contain metadata that describe who generated the dataset annotation, the source location of the raw data, the content of the file, and where data are located in the file. 
 
-A more detailed description of SC1 can be found **[here](Annotation_SC1.md)**. 
+A more detailed description of SC1 can be found **[here](Annotation_SC1.md)**.
 
 ## Sidecar file #2 (SC2) 
 
