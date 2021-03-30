@@ -25,7 +25,7 @@ where "column_index": 22 refers to the header for the column of data containing 
 
 In addition to variable mapping, SC1 files contain metadata that describe who generated the dataset annotation, the source location of the raw data, the content of the file, and where data are located in the file. 
 
-A more detailed description of SC1 can be found <!--**[here](Annotation_SC1.md)**.  -->
+A more detailed description of SC1 can be found **[here](Annotation_SC1.md)**. 
 
 ## Sidecar file #2 (SC2) 
 
@@ -53,7 +53,7 @@ In this simple case, the example for harvested grain weight is not much differen
 
 A tool (VMapper) has been developed at UF to assist a user in mapping variables in Excel spreadsheets or CSV (comma-separated values) files to ICASA vocabulary; to specify the units of each variable; and to specify relational links between data in multiple sheets (if applicable). With this information, the app can then write the SC2 in JSON format. 
 
-A more detailed description of SC2 can be found <!--**[here](Annotation_SC2.md)**. -->
+A more detailed description of SC2 can be found **[here](Annotation_SC2.md)**.
 
 ## Sidecar file #3 (SC3) 
 
@@ -88,4 +88,4 @@ All three sections of SC3 can be generated using the information found in any Ag
 
 SC3 also provides sufficient data to enable rapid advanced searches using metadata only. This is important because datasets are distributed and may not be quickly accessed and translated. Once a dataset is selected after a search of metadata, it can be converted to AgMIP data format using the information stored in SC2. Various model-ready formats and data analytics formats will be available to make these data useful on a variety of platforms. 
 
-A more detailed description of SC3 can be found <!--**[here](Annotation_SC3.md)**. -->
+A more detailed description of SC3 can be found **[here](Annotation_SC3.md)**.
