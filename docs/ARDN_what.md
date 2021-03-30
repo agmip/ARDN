@@ -9,5 +9,5 @@
 **Data Interoperability Protocol**: Datasets in ARDN are connected by a common protocol for annotating data which allows the data to be interpreted in an automated way. 
 1. Data annotation tools allow data providers to associate their data with ARDN. 
     - Annotation consists of three sidecar files, which are extended metadata. To read more about the ARDN sidecar files, see **[ARDN dataset annotation](Annotation.md)**.
-    - The VMapper tool assists a data provider to create ARDN sidecar file 2. To learn more, see the <!--**[VMapper documentation](VMapper.md)**. -->
+    - The VMapper tool assists a data provider to create ARDN sidecar file 2. To learn more, see the **[VMapper documentation](VMapper.md)**.
 2. Data translation tools allow conversion of ARDN datasets to various end user formats. See <!--**[AgMIP End-User Translation Tools](AgMIP_translators.md)** --> for more information.

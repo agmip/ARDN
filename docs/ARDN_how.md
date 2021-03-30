@@ -6,7 +6,7 @@ The ARDN data interoperability system is comprised of four interacting workflows
 
 <!--![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_workflows.jpg) -->
 
-The "Data Provider Tools" include <!--[VMapper](VMapper.md) -->, which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production. 
+The "Data Provider Tools" include [VMapper](VMapper.md), which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production. 
 
 We strongly suggest the use of Tidy Data principles for preparing datasets to be used for any type of analyses. Links to tidy data paper and other useful information can be found **[here](TidyData.md)**.
 
@@ -17,6 +17,6 @@ The "Data Tranlsation API" performs all translation functions, including convers
 "ARDN Data End-User Tools" are a suite of translators which convert data from AgMIP ACEB format to various model-specific formats. These translators were originally developed by AgMIP and are maintained by the model developer teams for each model.
 
 ### Links to additional resources for data providers:
-- <!--[VMapper](VMapper.md) -->
+- [VMapper](VMapper.md)
 - [ICASA Data Dictionary](http:/tinyurl.com/icasa-mvl)
 
