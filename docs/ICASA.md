@@ -1,3 +1,0 @@
-# ICASA Vocabulary
-
-Under construction
