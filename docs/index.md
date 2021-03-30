@@ -7,7 +7,7 @@ The goal of ARDN is to create a distributed network for harmonized crop systems 
 For more information, see [Why ARDN?](ARDN_why.md)
 
 ## What is ARDN?
-![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/AgMIP_workflows_small.jpg)
+!--![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/AgMIP_workflows_small.jpg)
 
 **Data Network**: ARDN is a network of datasets which can be harmonized and aggregated using a common vocabulary and format. 
 
