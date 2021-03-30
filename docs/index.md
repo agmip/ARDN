@@ -7,15 +7,15 @@ The goal of ARDN is to create a distributed network for harmonized crop systems 
 For more information, see [Why ARDN?](ARDN_why.md)
 
 ## What is ARDN?
-![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_workflows_small.jpg)
+![image](https://github.com/agmip/ARDN/raw/master/docs/images/ARDN_workflows_small.jpg)
 
 **Data Network**: ARDN is a network of datasets which can be harmonized and aggregated using a common vocabulary and format. 
 
 **Data Interoperability Protocol**: Datasets in ARDN are connected by a common protocol for annotating data which allows the data to be interpreted in an automated way. 
-More information, see [What is ARDN?](ARDN_what.md).
+More information, see [What is ARDN?](ARDN_what.md)
 
 ## Who are ARDN users?
-ARDN **data providers** have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to "ARDN-ify" their data thereby making these datasets reusable.
+ARDN **data providers** have data that they wish to make available to researchers in a format that can be interpreted in an automated way. ARDN tools assist these users to "ARDN-ize" their data thereby making these datasets reusable.
 
 **End users** of ARDN data make use of the interoperability of these datasets and can download and transform the data into formats that can be used in modeling applications, data analytics, meta-analyses, and other quantitative uses.
 
