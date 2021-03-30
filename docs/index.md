@@ -49,8 +49,5 @@ For more detailed information about ARDN protocols, workflows, and tools, see **
 - AgMIP data format
 - [ICASA vocabulary](ICASA.md)
 
-<!--## ARDN Glossary and References
-There is a build error when Glossary is added. No idea why...
-https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#troubleshooting-build-errors
-
-A list of ARDN terms, acronyms, and related references can be found **[here](Glossary.md)**. -->
+## ARDN Glossary and References
+A list of ARDN terms, acronyms, and related references can be found **[here](Glossary.md)**.
