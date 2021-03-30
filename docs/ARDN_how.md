@@ -4,7 +4,7 @@ ARDN data transformations, aggregations, and translations are made possible by a
 
 The ARDN data interoperability system is comprised of four interacting workflows as shown in the diagram below. In these workflows, tools (orange boxes) are used to create annotation files and AgMIP format files (blue parallelograms) from the original dataset. 
 
-![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_workflows.jpg)
+<--![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_workflows.jpg) -->
 
 The "Data Provider Tools" include [VMapper](VMapper.md), which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production. 
 
