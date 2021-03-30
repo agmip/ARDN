@@ -10,8 +10,6 @@ The **ARDN Data Provider Tools** include [VMapper](VMapper.md), which allows a u
 
 Find more information **[here]()** on the workflow for a data provider.
 
-We strongly suggest the use of Tidy Data principles for preparing datasets to be used for any type of analyses. Links to tidy data paper and other useful information can be found **[here](TidyData.md)**.
-
 
 The **Data Tranlsation API** performs all translation functions, including conversion of a dataset to AgMIP ACEB format, translation from ACEB format to end-user formats, and extraction of a subset of data to be included in Sidecar File 3 (SC3).
 
