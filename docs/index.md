@@ -4,7 +4,7 @@ There is a major gap between the potential value of data collected in agricultur
 
 ## Why ARDN?
 The goal of ARDN is to create a distributed network for harmonized crop systems research data and to make these data available through existing data portals such as USDA's Ag Data Commons and CGIAR's GARDIAN.
-For more information, see <!--[Why ARDN?](ARDN_why.md)-->
+For more information, see [Why ARDN?](ARDN_why.md)
 
 ## What is ARDN?
 <!--![image](https://github.com/agmip/ARDN/raw/master/docs/images/ARDN_workflows_small.jpg) -->
