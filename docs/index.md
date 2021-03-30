@@ -21,7 +21,7 @@ ARDN **data providers** have data that they wish to make available to researcher
 
 There are several **data portals** that are implementing ARDN protocols. ARDN has been implemented on [Ag Data Commons](https://data.nal.usda.gov/), the data and publication portal of the USDA National Agricultural Library. 
 Compatible data interoperability standards are also being developed and implemented on the CGIAR [GARDIAN](https://gardian.bigdata.cgiar.org/#!/) platform and by the [International Fertilizer Development Center (IFDC)](https://ifdc.org/).
-For more information, see [Why ARDN?](ARDN_why.md).
+For more information, see [Why ARDN?](ARDN_why.md)
 
 ## What ARDN is NOT:
 - ARDN does not (yet) include data from other agricultural domains such as livestock, pest and diseases, aquaculture, socioeconomics, and genetics. Similar methods could be developed for these domains. 
