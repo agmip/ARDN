@@ -28,7 +28,7 @@ All of these model-specific translators have been wrapped into a desktop user in
 
 Links to additional resources for end users of ARDN data:
 - [AgMIP data tools](http://tools.agmip.org/)
-- [How to use an AgMIP fomatted ACEB or JSON file](How to use an AgMIP formatted aceb or json file_v2.pdf)
+- [How to use an AgMIP fomatted ACEB or JSON file](https://github.com/agmip/ARDN/blob/master/docs/images/How%20to%20use%20an%20AgMIP%20formatted%20aceb%20or%20json%20file_v2.pdf)
 
 The **Data Tranlsation API** performs all translation functions, including conversion of a dataset to AgMIP ACEB format, translation from ACEB format to end-user formats, and extraction of a subset of data to be included in Sidecar File 3 (SC3).
 
