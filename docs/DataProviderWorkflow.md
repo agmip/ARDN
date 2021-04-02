@@ -18,3 +18,13 @@ The metadata goes through a curation review process and when ready, the dataset 
 
 
 ![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/DataProviderWorkflow_web.jpg)
+
+
+**Step 4.**
+Once the dataset has been published and a DOI assigned, the SC2 file can be finalized with the dataset link.
+
+**Step 5.**
+A new dataset is created for the SC2 and other associated ARDN files by cloning the metadata from the original dataset. 
+
+**Step 6.**
+In an automated process, the SC3 and ACEB files are created and added to the new ARDN products dataset.

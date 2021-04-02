@@ -8,7 +8,7 @@ The ARDN data interoperability system is comprised of four interacting workflows
 
 The **ARDN Data Provider Tools** include [VMapper](VMapper.md), which allows a user to interactively annotate their dataset with ICASA terminology. The product of VMapper is a Sidecar File 2 (SC2). Currently data in Excel and csv formats are supported by VMapper, with a json parser in production. 
 
-Find more information **[here]()** on the workflow for a data provider.
+For more detail, see **[Workflow for Data Providers](DataProviderWorkflow.md)**.
 
 
 The **Data Tranlsation API** performs all translation functions, including conversion of a dataset to AgMIP ACEB format, translation from ACEB format to end-user formats, and extraction of a subset of data to be included in Sidecar File 3 (SC3).
