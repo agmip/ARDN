@@ -14,6 +14,8 @@ Links to additional resources for ARDN data providers:
 - [VMapper](VMapper.md)
 - [ICASA Data Dictionary](http:/tinyurl.com/icasa-mvl)
 
+---
+
 **ARDN Data End-User Tools** are a suite of translators which convert data from AgMIP ACEB format to various model-specific formats. Most of these translators were originally developed by the AgMIP Data Interoperability Team and are maintained by the model developer teams for each model. The following models maintain AgMIP translators:
 
 - [DSSAT](https://dssat.net/)
@@ -30,9 +32,15 @@ Links to additional resources for end users of ARDN data:
 - [AgMIP data tools](http://tools.agmip.org/)
 - [How to use an AgMIP fomatted ACEB or JSON file](https://github.com/agmip/ARDN/blob/master/docs/images/How%20to%20use%20an%20AgMIP%20formatted%20aceb%20or%20json%20file_v2.pdf)
 
+---
+
+
 The **Data Tranlsation API** performs all translation functions, including conversion of a dataset to AgMIP ACEB format, translation from ACEB format to end-user formats, and extraction of a subset of data to be included in Sidecar File 3 (SC3).
 
 <!--For more detail, see **[Data Translation API](DataTranslationAPI.md)** -->
+
+
+---
 
 **ARDN Search and Discovery Tools** are used to generate a linkage of dataset terms to ontology terms (Sidecar File 1 or SC1). SC1 provides a means for semantically aware web searches to identify datasets using specific terminology. SC3 provides the data portal (e.g., Ag Data Commons or GARDIAN) to execute advanced searches on ARDN datasets without accessing and translating the data in the archived format and location.
 
