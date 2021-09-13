@@ -2,24 +2,24 @@
 
 AgMIP data formats were developed to store and transfer data related to field crop experiments, farm surveys, and other agronomic data in an efficient, flexible format (Porter et al, 2014). AgMIP crop modeling protocols promote the use of multiple models for research applications (Rosenzweig et al, 2012). The AgMIP data products were originally developed to allow data from diverse sources to be harmonized using a common vocabulary, to be combined with expert knowledge, and to be translated equivalently to the model-specific formats used by individual crop models (Figure 1). 
 
-![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_Data_Harmonization.jpg)
+![image](https://raw.githubusercontent.com/agmip/ARDN/raw/master/docs/images/AgMIP_Data_Harmonization.jpg)
 *Figure 1. AgMIP data interoperability tools were developed to harmonize data from diverse sources with a standard vocabulary, to allow data to be combined with expert knowledge, and to translate the combined data stream to model-specific formats for multi-model activities.*
 
 ## Data Format
 
-The AgMIP harmonized data format is referred as ACE, or AgMIP Crop Experiment format. These semi-structured AgMIP data are stored in key-value pairs, where the key corresponds to an [ICASA variable](www.tinyurl.com/icasa-mvl) which inherits a definition and a unit. AgMIP data may be available in either ìJSONî or ìACEBî formats. The ìJSONî (JavaScript Object Notation) suffix is a recognized data formatting standard. Many JSON readers are publicly available and allow easy parsing and processing. The ìACEBî format, or ACE binary format, is simply a GZipped (compressed) JSON file.  AgMIP has developed tools for viewing ACEB data and for translating AgMIP formatted data to model-specific formats for several crop models.
+The AgMIP harmonized data format is referred as ACE, or AgMIP Crop Experiment format. These semi-structured AgMIP data are stored in key-value pairs, where the key corresponds to an [ICASA variable](www.tinyurl.com/icasa-mvl) which inherits a definition and a unit. AgMIP data may be available in either ‚ÄúJSON‚Äù or ‚ÄúACEB‚Äù formats. The ‚ÄúJSON‚Äù (JavaScript Object Notation) suffix is a recognized data formatting standard. Many JSON readers are publicly available and allow easy parsing and processing. The ‚ÄúACEB‚Äù format, or ACE binary format, is simply a GZipped (compressed) JSON file.  AgMIP has developed tools for viewing ACEB data and for translating AgMIP formatted data to model-specific formats for several crop models.
 
-As shown in Figure 2, AgMIP data files consist of three parts, experiments, weathers, and soils. Relational linkages occur through use of ìsoil_idî and ìwst_idî variables. Data sub-structures are used for management event data. For example, in Figure 2, a fertilizer event has been expanded to show date of application, the nitrogen amount applied, and other details. Data sub-structures are also used for soil layer data and for time series data, such as weather or field observations of plant growth characteristics.
+As shown in Figure 2, AgMIP data files consist of three parts, experiments, weathers, and soils. Relational linkages occur through use of ‚Äúsoil_id‚Äù and ‚Äúwst_id‚Äù variables. Data sub-structures are used for management event data. For example, in Figure 2, a fertilizer event has been expanded to show date of application, the nitrogen amount applied, and other details. Data sub-structures are also used for soil layer data and for time series data, such as weather or field observations of plant growth characteristics.
 
-![image](https://github.com/agmip/ARDN/raw/master/docs/images/JSON_snippet.jpg)
+![image](https://raw.githubusercontent.com/agmip/ARDN/raw/master/docs/images/JSON_snippet.jpg)
 *Figure 2. Snippet of an AgMIP JSON data structure*
 
 ## AgMIP Data Tools
 
 AgMIP data interoperability tools can be freely downloaded from the [AgMIP toolshed](http://tools.agmip.org/). The more useful tools for most Ag Data Commons users are:
 
-- [ACEB Viewer](http://tools.agmip.org/acebviewer.php) ñ This tool allows ACEB files to be explored visually. 
-- [QuadUI](http://tools.agmip.org/quadui.php) ñ This java software application can be run as a desktop application or from a command line. The application reads various data formats, including AgMIP JSON and ACEB files, and converts data to model-specific formats. 
+- [ACEB Viewer](http://tools.agmip.org/acebviewer.php) ‚Äì This tool allows ACEB files to be explored visually. 
+- [QuadUI](http://tools.agmip.org/quadui.php) ‚Äì This java software application can be run as a desktop application or from a command line. The application reads various data formats, including AgMIP JSON and ACEB files, and converts data to model-specific formats. 
 
 ## Example of translation for DSSAT Cropping System Model using QuadUI
 
@@ -28,27 +28,27 @@ NOTE: Other modeling formats can be selected through the QuadUI interface, altho
 
 The sample data used in this example are a subset of data for a field crop experiment conducted in Maricopa, Arizona, USA called the Hot Serial Cereal experiment (Kimball et al, 2016). The sample data files referenced herein are:
 
-- [HSC-sample_4.5.aceb](https://github.com/agmip/json-translation-samples/blob/master/Wheat_HSC_SHORT/HSC-sample_4.5.aceb?raw=true) ñ AgMIP format file, ACEB format with experimental data collected in the field, including metadata, crop management, observations of crop growth and development, weather, and soils data.
+- [HSC-sample_4.5.aceb](https://github.com/agmip/json-translation-samples/blob/master/Wheat_HSC_SHORT/HSC-sample_4.5.aceb?raw=true) ‚Äì AgMIP format file, ACEB format with experimental data collected in the field, including metadata, crop management, observations of crop growth and development, weather, and soils data.
 
-- [Field_overlay_HSC_v4.5a.zip](https://github.com/agmip/json-translation-samples/blob/master/Wheat_HSC_SHORT/Field_overlay_HSC_v4.5.zip?raw=true) ñ DOME file to supply additional information required for modeling.
+- [Field_overlay_HSC_v4.5a.zip](https://github.com/agmip/json-translation-samples/blob/master/Wheat_HSC_SHORT/Field_overlay_HSC_v4.5.zip?raw=true) ‚Äì DOME file to supply additional information required for modeling.
 
 Figure 3 shows a screenshot of the QuadUI desktop application after a user has selected the HSC-sample_4.5.aceb file. (Note that QuadUI can also be used to translate raw data from Excel and other formats, where providing soils and weather data separately may be convenient, but in this case, the weather and soils data are included in the ACEB file.)
 
-![image](https://github.com/agmip/ARDN/raw/master/docs/images/QuadUI.png)
+![image](https://raw.githubusercontent.com/agmip/ARDN/raw/master/docs/images/QuadUI.png)
 *Figure 3. QuadUI screenshot*
 
-The user has selected to translate the data to DSSAT format. When the ìConvertî option is selected, the data are translated to DSSAT format. Multiple crop modeling options may be selected simultaneously, and the model input files are created in separate folders for each model. In this case, a single folder for DSSAT will be created for the translated files.
+The user has selected to translate the data to DSSAT format. When the ‚ÄúConvert‚Äù option is selected, the data are translated to DSSAT format. Multiple crop modeling options may be selected simultaneously, and the model input files are created in separate folders for each model. In this case, a single folder for DSSAT will be created for the translated files.
 When a user tries to run a simulation with the DSSAT files created, the model will generate errors because a few required model parameters are not present in the data collected in the field experiment. At this point, we need to introduce a separate data source that can supply these additional model parameters, determined or estimated by the modeler.
 
 ## DOME files
 
 When the end use of a dataset involves crop modeling, we often find that even detailed descriptions of experiments lack data required by a model. For example, perhaps the type of fertilizer or the row spacing was not recorded. A DOME (Data Overlay for Multi-model Export) file can supply additional information based on the best available knowledge of the cropping system being modeled. Figure 4 illustrates the concept. While both experimental data (ACE) and modeler assumptions (DOME) are combined to generate model inputs for the simulation, the original field-measured data are not modified. 
 
-DOME functions are available  to allow calculation of modeling inputs such as initial water content, initial N distribution, and other functions (see http://research.agmip.org/display/itwiki/The+DOME).
+DOME functions are available  to allow calculation of modeling inputs such as initial water content, initial N distribution, and other functions (see [research.agmip.org/display/itwiki/The+DOME](http://research.agmip.org/display/itwiki/The+DOME)).
 
 DOMEs may also be used to generate scenarios for modeling future climates, adaptation strategies, sensitivity analyses, or other hypothetical scenarios. Addition of DOME data does not alter the original dataset, and multiple DOMEs can be combined to create complex scenarios. 
 
-See the section of this document entitled: ìHow to Use a DOMEî for more information on the structure and content of DOME data.
+See the section of this document entitled: ‚ÄúHow to Use a DOME‚Äù for more information on the structure and content of DOME data.
 
 
 
