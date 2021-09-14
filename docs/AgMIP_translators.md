@@ -3,6 +3,7 @@
 AgMIP data formats were developed to store and transfer data related to field crop experiments, farm surveys, and other agronomic data in an efficient, flexible format (Porter et al, 2014). AgMIP crop modeling protocols promote the use of multiple models for research applications (Rosenzweig et al, 2012). The AgMIP data products were originally developed to allow data from diverse sources to be harmonized using a common vocabulary, to be combined with expert knowledge, and to be translated equivalently to the model-specific formats used by individual crop models (Figure 1). 
 
 ![image](https://github.com/agmip/ARDN/raw/master/docs/images/AgMIP_Data_Harmonization.jpg)
+
 *Figure 1. AgMIP data interoperability tools were developed to harmonize data from diverse sources with a standard vocabulary, to allow data to be combined with expert knowledge, and to translate the combined data stream to model-specific formats for multi-model activities.*
 
 ## Data Format
@@ -12,6 +13,7 @@ The AgMIP harmonized data format is referred as ACE, or AgMIP Crop Experiment fo
 As shown in Figure 2, AgMIP data files consist of three parts, experiments, weathers, and soils. Relational linkages occur through use of 'soil_id' and 'wst_id' variables. Data sub-structures are used for management event data. For example, in Figure 2, a fertilizer event has been expanded to show date of application, the nitrogen amount applied, and other details. Data sub-structures are also used for soil layer data and for time series data, such as weather or field observations of plant growth characteristics.
 
 ![image](https://github.com/agmip/ARDN/raw/master/docs/images/JSON_snippet.jpg)
+
 *Figure 2. Snippet of an AgMIP JSON data structure*
 
 ## AgMIP Data Tools
@@ -35,6 +37,7 @@ The sample data used in this example are a subset of data for a field crop exper
 Figure 3 shows a screenshot of the QuadUI desktop application after a user has selected the HSC-sample_4.5.aceb file. (Note that QuadUI can also be used to translate raw data from Excel and other formats, where providing soils and weather data separately may be convenient, but in this case, the weather and soils data are included in the ACEB file.)
 
 ![image](https://github.com/agmip/ARDN/raw/master/docs/images/QuadUI.png)
+
 *Figure 3. QuadUI screenshot*
 
 The user has selected to translate the data to DSSAT format. When the “Convert” option is selected, the data are translated to DSSAT format. Multiple crop modeling options may be selected simultaneously, and the model input files are created in separate folders for each model. In this case, a single folder for DSSAT will be created for the translated files.
