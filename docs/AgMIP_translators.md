@@ -44,4 +44,11 @@ DOMEs may also be used to generate scenarios for modeling future climates, adapt
 
 See the section of this document entitled: “How to Use a DOME” for more information on the structure and content of DOME data.
 
+## References
+
+Kimball, B.A., J.W. White, G.W. Wall, M.J. Ottman 2016. Wheat Responses to a Wide Range of Temperatures: The Hot Serial Cereal Experiment. In: J. L. Hatfield, D. Fleisher, editors, Improving Modeling Tools to Assess Climate Change Effects on Crop Response, Adv. Agric. Syst. Model. 7. ASA, CSSA, and SSSA, Madison, WI. p. 33-44. [doi:10.2134/advagricsystmodel7.2014.0014](https://doi.org/10.2134/advagricsystmodel7.2014.0014)
+
+Porter, C.H., C. Villalobos, D. Holzworth, R. Nelson, J.W. White, I.N. Athanasiadis, S. Janssen, D. Ripoche, J. Cufi, D. Raes, M. Zhang, R. Knapen, R. Sahajpal, K.J. Boote, J.W. Jones. 2014. Harmonization and translation of crop modeling data to ensure interoperability. Environmental Modelling and Software. 62:495-508. [doi:10.1016/j.envsoft.2014.09.004](https://doi.org/10.1016/j.envsoft.2014.09.004). 
+
+Rosenzweig, C., J.W. Jones, J.L. Hatfield, A.C. Ruane, K.J. Boote, P. Thorburn, J.M. Antle,G.C. Nelson, C. Porter, S. Janssen, S. Asseng, B. Basso, F. Ewert, D. Wallach, G. Baigorria, and J.M. Winter.  2012. The Agricultural Model Intercomparison and Improvement Project (AgMIP): Protocols and Pilot Studies.  Ag. For. Meteor. 170:166-182[doi:10.1016/j.agrformet.2012.09.011](http://dx.doi.org/10.1016/j.agrformet.2012.09.011). 
 
