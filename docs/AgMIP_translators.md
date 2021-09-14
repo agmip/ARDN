@@ -12,5 +12,5 @@ As shown in Figure 2, AgMIP data files consist of three parts, experiments, weat
 
 AgMIP data interoperability tools can be freely downloaded from the [AgMIP toolshed](http://tools.agmip.org/). The more useful tools for most Ag Data Commons users are:
 
-- [ACEB Viewer](http://tools.agmip.org/acebviewer.php) – This tool allows ACEB files to be explored visually. 
-- [QuadUI](http://tools.agmip.org/quadui.php) – This java software application can be run as a desktop application or from a command line. The application reads various data formats, including AgMIP JSON and ACEB files, and converts data to model-specific formats. 
+- [ACEB Viewer](http://tools.agmip.org/acebviewer.php) - This tool allows ACEB files to be explored visually. 
+- [QuadUI](http://tools.agmip.org/quadui.php) - This java software application can be run as a desktop application or from a command line. The application reads various data formats, including AgMIP JSON and ACEB files, and converts data to model-specific formats. 
