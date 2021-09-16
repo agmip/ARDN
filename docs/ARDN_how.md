@@ -46,3 +46,8 @@ The **Data Tranlsation API** performs all translation functions, including conve
 
 <!-- For more detail, see **[ARDN Search and Discover Tools in ADC](SearchTools.md)** -->
 
+
+
+[Home](index.md)
+
+

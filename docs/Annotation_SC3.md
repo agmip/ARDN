@@ -52,3 +52,8 @@ The SC3 can be generated using the information found in ACEB files, which are av
 SC3  provides sufficient data to enable rapid advanced searches using metadata only. This is important because datasets are distributed and may not be quickly accessed and translated.  Once a dataset is selected after a search of metadata, it can be converted to AgMIP data format using the information stored in SC2. Various model-ready formats and data analytics formats will be available to make these data useful on a variety of platforms. 
 
 The following is a partial SC3 for the “TAMASA Ethiopia. Variety phenology calibration dataset, 2016”. The file has been shortened for brevity. The entire file may be viewed **[here](https://github.com/agmip/gardian_metadata/blob/master/TAMASA/tamasa-sc3.json)**.
+
+
+
+[Home](index.md)
+

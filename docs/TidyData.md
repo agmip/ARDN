@@ -9,3 +9,7 @@ The concept of "tidy data" was developed by Hadley Wickham and describes simple 
 [Tidy data description](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) in cran.r-project.org website.
 
 
+[Home](index.md)
+
+
+

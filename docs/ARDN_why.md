@@ -19,3 +19,7 @@ A widely adopted ARDN will increase research efficiency by reducing the need for
 - International Food Policy Research Institute, Research Agreement No. 2018X212.UOF – design of initial data annotation protocols and development of translator API, implementation of ARDN on GARDIAN
 - IFDC AGR DTD 08-03-2018 - VMapper testing and debugging
 - AgMIP DFID / USDA 59-3625-1-745 and 59-5030-5-018 - design of ACE format and development of original AgMIP translators for crop model users
+
+
+
+[Home](index.md)

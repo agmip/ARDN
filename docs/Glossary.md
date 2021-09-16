@@ -30,3 +30,7 @@ Hunt, L.A., Hoogenboom, G., Jones, J.W., White, J.W., 2006. ICASA Version 1.0 Da
 
 
 **Sidecar File 3** - Sidecar file 3 (SC3) contains a subset of the dataset for a few pre-selected variables. The SC3 file contains 3 parts: a table of data extracted from the dataset, a set of unique values contained within the dataset, and a set of summary statistics for the selected variables. SC3 allows rapid searching for values of data without locating and opening the dataset, which may be in a remote location. The data table portion of SC3 allows this subset of data to be easily combined with other datasets for rapid analytics. See ARDN data annotation for additional information.
+
+
+
+[Home](index.md)

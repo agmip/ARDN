@@ -89,3 +89,7 @@ All three sections of SC3 can be generated using the information found in any Ag
 SC3 also provides sufficient data to enable rapid advanced searches using metadata only. This is important because datasets are distributed and may not be quickly accessed and translated. Once a dataset is selected after a search of metadata, it can be converted to AgMIP data format using the information stored in SC2. Various model-ready formats and data analytics formats will be available to make these data useful on a variety of platforms. 
 
 A more detailed description of SC3 can be found **[here](Annotation_SC3.md)**.
+
+
+[Home](index.md)
+
