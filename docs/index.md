@@ -48,7 +48,7 @@ The primary component of ARDN annotation is **Sidecar file 2**, which allows the
 For more detailed information about ARDN protocols, workflows, and tools, see **[How does ARDN work?](ARDN_how.md)** Additional information can be found by the following links:
 - [ARDN dataset annotation](Annotation.md)
 - AgMIP data format
-- [ICASA vocabulary](ICASA.md)
+- [ICASA vocabulary](https://agmip.githbub.io/ICASA.md))
 
 ## ARDN Glossary and References
 A list of ARDN terms, acronyms, and related references can be found **[here](Glossary.md)**.

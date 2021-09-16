@@ -21,7 +21,7 @@ SC1 provides a map of column data headers to ontology terms from Agronomy Ontolo
                 "unit_url": "http://purl.obolibrary.org/obo/UO_0000283"
               },
 
-where "column_index": 22 refers to the header for the column of data containing maize grain yield, "http://purl.obolibrary.org/obo/TO_0000396" is the uri  for the corresponding term in the trait ontology, and "http://purl.obolibrary.org/obo/UO_0000283" is the uri corresponding term in the Units Ontology. 
+where 'column_index': 22 refers to the header for the column of data containing maize grain yield, 'http://purl.obolibrary.org/obo/TO_0000396' is the uri  for the corresponding term in the trait ontology, and 'http://purl.obolibrary.org/obo/UO_0000283' is the uri corresponding term in the Units Ontology. 
 
 In addition to variable mapping, SC1 files contain metadata that describe who generated the dataset annotation, the source location of the raw data, the content of the file, and where data are located in the file. 
 
@@ -29,7 +29,7 @@ A more detailed description of SC1 can be found **[here](Annotation_SC1.md)**.
 
 ## Sidecar file #2 (SC2) 
 
-SC2 contains the “roadmap” for translation of the raw dataset into AgMIP ACEB format. This includes instructions for accessing the file(s), locating relevant ARDN data within the file, associating the variables with ICASA vocabulary, and defining the units of the data. The data provider may specify values of data which are not explicitly contained within the dataset. For example, a maize study may not contain any information in the dataset itself that the crop is maize. However, for that information to be included in the ARDN data, it must be explicitly stated. Other functions allow transformations of the data to describe the equivalent ICASA variable. For example, planting density may be calculated from row spacing and plant spacing within a row. That calculation can be specified in SC2.
+SC2 contains the 'roadmap' for translation of the raw dataset into AgMIP ACEB format. This includes instructions for accessing the file(s), locating relevant ARDN data within the file, associating the variables with ICASA vocabulary, and defining the units of the data. The data provider may specify values of data which are not explicitly contained within the dataset. For example, a maize study may not contain any information in the dataset itself that the crop is maize. However, for that information to be included in the ARDN data, it must be explicitly stated. Other functions allow transformations of the data to describe the equivalent ICASA variable. For example, planting density may be calculated from row spacing and plant spacing within a row. That calculation can be specified in SC2.
 
 An example of a simple definition is shown in the following JSON snippet:
 
@@ -40,9 +40,9 @@ An example of a simple definition is shown in the following JSON snippet:
                 "unit": "kg/ha"
               },
 
-where "hwam" is the ICASA term for harvested yield at maturity in kg/ha, "column_index": 22 indicates the location of the column of data,  and "unit": "kg/ha" indicates the units for the term in the raw data. The translator has logic to automatically convert units as necessary to ICASA-compliant units using a unit conversion library based on [UDUNITS](https://www.unidata.ucar.edu/software/udunits/udunits-2-units.html).
+where 'hwam' is the ICASA term for harvested yield at maturity in kg/ha, 'column_index': 22 indicates the location of the column of data,  and 'unit': 'kg/ha' indicates the units for the term in the raw data. The translator has logic to automatically convert units as necessary to ICASA-compliant units using a unit conversion library based on [UDUNITS](https://www.unidata.ucar.edu/software/udunits/udunits-2-units.html).
 
-In this simple case, the example for harvested grain weight is not much different than the SC1 snippet for this variable. But more complex transformations can be expressed. In the snippet below, planting density ("plpop") is computed from the spacing between rows ("plrs") and spacing of plants within a row ("plsp"). The formula, "10^4/(plrs * plsp)" , includes a conversion factor from cm-2 to m-2.    
+In this simple case, the example for harvested grain weight is not much different than the SC1 snippet for this variable. But more complex transformations can be expressed. In the snippet below, planting density ('plpop') is computed from the spacing between rows ('plrs') and spacing of plants within a row ('plsp'). The formula, '10^4/(plrs * plsp)' , includes a conversion factor from cm-2 to m-2.    
 
     {
       "icasa": "plpop",
@@ -60,23 +60,23 @@ A more detailed description of SC2 can be found **[here](Annotation_SC2.md)**.
 SC3 contains data which will be available on ARDN data portals (e.g., Ag Data Commons and GARDIAN) to facilitate rapid, complex searches and basic analytics. Because the actual datasets in ARDN networks are stored in different physical locations, with different formats, schemas, and vocabularies, searching through the actual datasets may not be possible within a reasonable amount of time. SC3 pre-exposes some interoperable data to enable fast querying of ARDN datasets.
 
 The variables or keys included in SC3 are (with ICASA variable names):
--	Experimental factors (factors)
--	Crop species (crid)
--	Cultivar information (cul_text)
--	Location (fl_lat and  fl_long)
--	Elevation (flele)
--	Planting date (pdate)
--	Harvest date (hdate)
--	Anthesis date (adat) 
--	Maturity date (mdat)
--	Yield, dry matter (hwah)
--	Aboveground biomass harvested as dry matter (cwah) 
--	Total N fertilizer applied (fen_tot)
--	Total P fertilizer applied (fep_tot)
--	Total K fertilizer applied (fek_tot)
--	number of fertilizer applications (fert_#_tot)
--	Total irrigation amount (mm) (ir_tot)
--	number of irrigation applications (ir_#)
+* Experimental factors (factors)
+* Crop species (crid)
+* Cultivar information (cul_text)
+* Location (fl_lat and  fl_long)
+* Elevation (flele)
+* Planting date (pdate)
+* Harvest date (hdate)
+* Anthesis date (adat) 
+* Maturity date (mdat)
+* Yield, dry matter (hwah)
+* Aboveground biomass harvested as dry matter (cwah) 
+* Total N fertilizer applied (fen_tot)
+* Total P fertilizer applied (fep_tot)
+* Total K fertilizer applied (fek_tot)
+* number of fertilizer applications (fert_#_tot)
+* Total irrigation amount (mm) (ir_tot)
+* number of irrigation applications (ir_#)
 
 SC3 contains three parts. The first part, SC3a, contains data extracted from the raw dataset which can be used for indexing, allowing rapid, advanced searches of annotated datasets. SC3a is a list of unique values of the variables of interest, presented as key-value pairs where the key is an ICASA variable name and the value is a vector including the range of unique values found in the full dataset. Additional metadata are included in SC3a which describe the number of treatments, the number of measurements of key variables, and the amount of weather and soil data included in the dataset. These data may be of interest to someone searching for datasets for quantitative analyses for specific purposes. 
 

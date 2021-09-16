@@ -18,13 +18,13 @@ Links to additional resources for ARDN data providers:
 
 **ARDN Data End-User Tools** are a suite of translators which convert data from AgMIP ACEB format to various model-specific formats. Most of these translators were originally developed by the AgMIP Data Interoperability Team and are maintained by the model developer teams for each model. The following models maintain AgMIP translators:
 
-- [DSSAT](https://dssat.net/)
-- [APSIM](https://www.apsim.info/)
-- [SarraH](http://iopscience.iop.org/1748-9326/8/1/014040/article)
-- [STICS](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/advagricsystmodel2.c14)
-- [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm)
-- [CropGrow-NAU](https://en.cnki.com.cn/Article_en/CJFDTotal-NYGU200701024.htm)
-- [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/cropsyst/index.html)
+* [DSSAT](https://dssat.net/)
+* [APSIM](https://www.apsim.info/)
+* [SarraH](http://iopscience.iop.org/1748-9326/8/1/014040/article)
+* [STICS](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/advagricsystmodel2.c14)
+* [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm)
+* [CropGrow-NAU](https://en.cnki.com.cn/Article_en/CJFDTotal-NYGU200701024.htm)
+* [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/cropsyst/index.html)
 
 All of these model-specific translators have been wrapped into a desktop user interface, QuadUI, developed by AgMIP, which can be downloaded **[here](http://tools.agmip.org/quadui.php)**. 
 
