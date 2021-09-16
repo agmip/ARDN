@@ -26,7 +26,7 @@ Links to additional resources for ARDN data providers:
 * [CropGrow-NAU](https://en.cnki.com.cn/Article_en/CJFDTotal-NYGU200701024.htm)
 * [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/cropsyst/index.html)
 
-All of these model-specific translators have been wrapped into a desktop user interface, QuadUI, developed by AgMIP, which can be downloaded **[here](http://tools.agmip.org/quadui.php)**. 
+All of these model-specific translators have been wrapped into a desktop user interface, QuadUI, developed by AgMIP, which can be downloaded **[here](https://github.com/agmip/quadui/releases)**. 
 
 Links to additional resources for end users of ARDN data:
 - [AgMIP data tools](http://tools.agmip.org/)
