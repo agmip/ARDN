@@ -1,11 +1,13 @@
 # ARDN Data Interoperability Conference 
 ### June 9, 2022
 
-The Agricultural Research Data network (ARDN) will hold a conference on Thursday, June 9, 2022 at the National Agricultural Library in Beltsville, Maryland on agricultural data interoperability. The ARDN project team will describe the methods developed for data annotation and sharing and describe the implementation on Ag Data Commons and GARDIAN data portals. We will discuss with conference participants ways of furthering this work with potential collaborations and implementation.
+The Agricultural Research Data network (ARDN) will hold a conference on Thursday, June 9, 2022 at the National Agricultural Library in Beltsville, Maryland, USA to showcase ARDN data interoperability tools and protocols. The ARDN project team will describe methods developed for data annotation and sharing which can be used to “rescue” legacy data or be applied to new data sources to facilitate interoperability and reuse of our most valuable agricultural research product: data. We will describe ARDN implementation on NAL's Ag Data Commons and CGIAR's GARDIAN data portals and discuss with conference participants ways of furthering this work through potential collaborations.
 
-The one-day conference will be preceded by two hands-on data workshops. On Tuesday, June 7, the ARDN Data Providers Workshop presents the ARDN data annotation concepts and allows users to prepare their own data (or data provided by us) for inclusion in ARDN. On Wednesday, June 8, the ARDN Data User's Workshop will Participants will work with ARDN data in modeling applications.
+The one-day conference will be preceded by two hands-on data workshops. On Tuesday, June 7, the ARDN Data Providers Workshop presents particpants with the ARDN data annotation concepts and allows them to prepare their own data (or data provided by us) for inclusion in ARDN. On Wednesday, June 8, the ARDN Data User's Workshop will introduce participants to the process of translating ARDN datasets to model-specific formats. 
 
-## Agenda-at-a-Glance
+
+
+## Preliminary Agenda-at-a-Glance
 
 <!-- | Date | Event |
 |----- | ----- |
@@ -14,7 +16,7 @@ The one-day conference will be preceded by two hands-on data workshops. On Tuesd
 | Thu, June 9, 2022 | **ARDN Conference** | -->
 
 
-### Thursday, Jun 9 - ARDN Conference 9am - 3pm EDT
+### Thursday, June 9, 2022 - ARDN Conference 9am - 3pm EDT
 - Showcase of tools and standards
   - ADC - data and search functions
   - Data annotation background
@@ -27,12 +29,12 @@ The one-day conference will be preceded by two hands-on data workshops. On Tuesd
 
 ## Pre-conference workshops:
 
-### Tuesday, June 7 - ARDN / AgMIP Data provision workshop - 9am - 5pm EDT
+### Tuesday, June 7, 2022 - ARDN / AgMIP Data provision workshop - 9am - 5pm EDT
 - Data organization
 - Use of ARDN data annotation tools
 - HANDS-ON WORKSHOP: Work with your own data
 
-### Wednesday, Jun 8 - ARDN / AgMIP Data user workshop - 9am - 5pm EDT
+### Wednesday, June 8, 2022 - ARDN / AgMIP Data user workshop - 9am - 5pm EDT
 - Translation of data to end-user formats using AgMIP tools
 - HANDS-ON WORKSHOP: Translate ARDN data for modeling or analytics
 
