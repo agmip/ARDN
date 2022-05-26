@@ -21,8 +21,7 @@ The one-day conference will be preceded by two hands-on data workshops. On Tuesd
 ## Pre-conference workshops:
 
 ### Tuesday, June 7, 2022 - ARDN / AgMIP Data provision workshop - 9am - 5pm EDT
-[(link to full ARDN / AgMIP data workshop agendas)]([Link to workshop agendas](2022-06_Workshop_Agendas.md)
-)
+[(link to full ARDN / AgMIP data workshop agendas)](2022-06_Workshop_Agendas.md)
 - Use of ARDN data annotation tools
 - Data organization principles
 - HANDS-ON WORKSHOP: Work with your own data
