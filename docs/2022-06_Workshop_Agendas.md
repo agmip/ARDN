@@ -1,6 +1,5 @@
 # Agricultural Research Data Network Conference
 
-<!-- temporarily remove content 
 June 7-9, 2022
 
 National Agricultural Library  
@@ -51,4 +50,4 @@ Return to [ARDN conference agenda](2022-06_Conference_Agenda.md)
 Return to [Main ARDN conference page](2022-06_Conference.md)
 
 For more about ARDN, see [here](https://agmip.github.io/ARDN/).
- -->
+ 
