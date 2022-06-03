@@ -10,7 +10,8 @@ The one-day conference will be preceded by two hands-on data workshops. On Tuesd
 ## Preliminary Agenda-at-a-Glance
 
 ### Thursday, June 9, 2022 - ARDN Conference 9am - 3pm EDT
-[(link to full ARDN conference agenda)](2022-06_Conference_Agenda.md)
+<!-- [(link to full ARDN conference agenda)](2022-06_Conference_Agenda.md) -->
+[(download ARDN conference agenda)](https://github.com/agmip/ARDN/raw/master/docs/images/ARDN%20Conference%20Agenda.pdf)
 - Overview of ARDN
 - Showcase of ARDN tools and standards
   - Ag Data Commons - data and search functions
@@ -21,14 +22,16 @@ The one-day conference will be preceded by two hands-on data workshops. On Tuesd
 ## Pre-conference workshops:
 
 ### Tuesday, June 7, 2022 - ARDN / AgMIP Data provision workshop - 9am - 5pm EDT
-[(link to full ARDN / AgMIP data workshop agendas)](2022-06_Workshop_Agendas.md)
+<!-- [(link to full ARDN / AgMIP data workshop agendas)](2022-06_Workshop_Agendas.md) -->
+[(download ARDN / AgMIP data workshop agendas)](https://github.com/agmip/ARDN/raw/master/docs/images/ARDN%20Workshops%20Agenda.pdf)
 - Use of ARDN data annotation tools
 - Data organization principles
 - HANDS-ON WORKSHOP: Work with your own data
 - Minimum experimental data for collection
 
 ### Wednesday, June 8, 2022 - ARDN / AgMIP Data user workshop - 9am - 5pm EDT
-[(link to full ARDN /AgMIP modeler's workshop agendas)](2022-06_Workshop_Agendas.md)
+<!-- [(link to full ARDN / AgMIP data workshop agendas)](2022-06_Workshop_Agendas.md) -->
+[(download ARDN / AgMIP data workshop agendas)](https://github.com/agmip/ARDN/raw/master/docs/images/ARDN%20Workshops%20Agenda.pdf)
 - Translation of data to end-user formats using AgMIP tools
 - HANDS-ON WORKSHOP: Translate ARDN data for modeling or analytics
 
