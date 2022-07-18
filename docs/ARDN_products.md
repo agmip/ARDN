@@ -1,120 +1,123 @@
 # Steps to creating an ARDN Products dataset
 
-A data provider creates an SC2 file for the dataset that they want to include in the ARDN network. The SC2 file contains the link to the dataset, either stored on ADC or on a remote repository. A separate dataset is created on ADC to contain the SC2 and other ARDN-related data products (such as SC3, ACEB, model-ready files, etc.). The steps to create this ARDN dataset are described below. Unless stated otherwise, existing fields should not be changed.
+This failed to compile. Temporarily disable content.
+
+<!--A data provider creates an SC2 file for the dataset that they want to include in the ARDN network. The SC2 file contains the link to the dataset, either stored on ADC or on a remote repository. A separate dataset is created on ADC to contain the SC2 and other ARDN-related data products (such as SC3, ACEB, model-ready files, etc.). The steps to create this ARDN dataset are described below. Unless stated otherwise, existing fields should not be changed.
 
 ## Step 1. Clone the metadata for the dataset being ARDN-ized. 
 
-Click on the “Clone dataset” button at top of dataset to be cloned. Click on “Clone” again on the new screen that pops up.
+Click on the â€œClone datasetâ€ button at top of dataset to be cloned. Click on â€œCloneâ€ again on the new screen that pops up.
 
 ## Step 2. Modify the metadata
 
 ### First block
-In the **“Title”** section, remove the *“clone of”* at the beginning of the title. Keep the title and add *“: ARDN Products”* at the end.
+In the **â€œTitleâ€** section, remove the *â€œclone ofâ€* at the beginning of the title. Keep the title and add *â€œ: ARDN Productsâ€* at the end.
 
-In the **“Summary”** field, add the following text at the beginning of the summary: 
+In the **â€œSummaryâ€** field, add the following text at the beginning of the summary: 
 
->“ARDN (Agricultural Research Data Network) annotations for `"parent dataset name"`. The ARDN project (https://data.nal.usda.gov/ardn) is a network of datasets harmonized and aggregated using the ICASA vocabulary, as recommended by USDA NAL (https://data.nal.usda.gov/data-dictionary-examples) and described in detail here:  www.tinyurl.com/icasa-mvl”. 
+>â€œARDN (Agricultural Research Data Network) annotations for `"parent dataset name"`. The ARDN project (https://data.nal.usda.gov/ardn) is a network of datasets harmonized and aggregated using the ICASA vocabulary, as recommended by USDA NAL (https://data.nal.usda.gov/data-dictionary-examples) and described in detail here:  www.tinyurl.com/icasa-mvlâ€. 
 
 The remaining summary may be left from the original, or it may be modified as you prefer.
 
 
-In the **“Description”** section, add the following text: 
+In the **â€œDescriptionâ€** section, add the following text: 
 
->“ARDN provides dataset annotations which facilitate interoperability. For information on how to use ARDN annotations and other data products, see https://agmip.github.io/ARDN/ARDN_how.html.” 
+>â€œARDN provides dataset annotations which facilitate interoperability. For information on how to use ARDN annotations and other data products, see https://agmip.github.io/ARDN/ARDN_how.html.â€ 
 
 The remainder of the Description should be identical to that of the original dataset.
 
-**“Tags”** and **“Groups”** are autofillled from the cloned dataset. Leave these as-is.
+**â€œTagsâ€** and **â€œGroupsâ€** are autofillled from the cloned dataset. Leave these as-is.
 
-**“License”** – Select CC0 (or your choice, but this should be an opensource license).
-
----
-### “Dataset Information” block
-
-The **“Geographic coverage”**, **“Spatial Description”**, **"Frequency”**, **“Temporal Coverage”** fields are autofilled with information from the cloned dataset. Leave these as-is.
-
-**“Contact name”** and **“Contact email”** should be for the person who created the SC2, not necessarily the original data provider.
-
-**“Public Access Level”** should be public.
-
-**“Resources”** are autofilled from the cloned dataset.
+**â€œLicenseâ€** â€“ Select CC0 (or your choice, but this should be an opensource license).
 
 ---
-### “Extended Metadata” block
-**“Authors”** will usually be different from authors of the original dataset. Use this field to give credit to the people who generated the SC2 file and other associated ARDN product files.
+### â€œDataset Informationâ€ block
 
-**“Purpose and Methods”**
-- For **“Intended Use”**, insert the following text:
+The **â€œGeographic coverageâ€**, **â€œSpatial Descriptionâ€**, **"Frequencyâ€**, **â€œTemporal Coverageâ€** fields are autofilled with information from the cloned dataset. Leave these as-is.
 
->“ARDN network of interoperable data. See https://agmip.github.io/ARDN/ and https://agmip.github.io/ARDN/ARDN_how.html.”
+**â€œContact nameâ€** and **â€œContact emailâ€** should be for the person who created the SC2, not necessarily the original data provider.
 
-- **“Use limitations”** – leave this the same as the original dataset.
+**â€œPublic Access Levelâ€** should be public.
 
-- **“Equipment or Software Used”** – Insert the following entry:
+**â€œResourcesâ€** are autofilled from the cloned dataset.
+
+---
+### â€œExtended Metadataâ€ block
+**â€œAuthorsâ€** will usually be different from authors of the original dataset. Use this field to give credit to the people who generated the SC2 file and other associated ARDN product files.
+
+**â€œPurpose and Methodsâ€**
+- For **â€œIntended Useâ€**, insert the following text:
+
+>â€œARDN network of interoperable data. See https://agmip.github.io/ARDN/ and https://agmip.github.io/ARDN/ARDN_how.html.â€
+
+- **â€œUse limitationsâ€** â€“ leave this the same as the original dataset.
+
+- **â€œEquipment or Software Usedâ€** â€“ Insert the following entry:
 >Ag Data Commons ARDN project page 
 >https://data.nal.usda.gov/ARDN
 
-- **“Citations”** – You can remove all citations, unless a citation exists for use of the translated data. 
+- **â€œCitationsâ€** â€“ You can remove all citations, unless a citation exists for use of the translated data. 
 
-- **“Funding sources”** – This would refer to funding for the SC2 generation and translation of the original data. if you generated this under the ARDN NIFA project, Select “National Institute of Food and Agriculture” from the pull-down menu and use: Award #2019-67021-29921. 
+- **â€œFunding sourcesâ€** â€“ This would refer to funding for the SC2 generation and translation of the original data. if you generated this under the ARDN NIFA project, Select â€œNational Institute of Food and Agricultureâ€ from the pull-down menu and use: Award #2019-67021-29921. 
 
-- **“Dataset DOI (digital object identifier)"** – Leave blank (ARDN datasets will not get a DOI).
+- **â€œDataset DOI (digital object identifier)"** â€“ Leave blank (ARDN datasets will not get a DOI).
 
-- **“Product type”** – “Dataset”
+- **â€œProduct typeâ€** â€“ â€œDatasetâ€
 
-- **“Cites other Datasets”** – include the name and url for the original dataset metadata record (i.e., the ADC main page for the dataset).
+- **â€œCites other Datasetsâ€** â€“ include the name and url for the original dataset metadata record (i.e., the ADC main page for the dataset).
 
-- **“Related Content”** – link to the original dataset here. In addition, add this link:
->Title: “ARDN website”; URL: https://agmip.github.io/ARDN/
+- **â€œRelated Contentâ€** â€“ link to the original dataset here. In addition, add this link:
+>Title: â€œARDN websiteâ€; URL: https://agmip.github.io/ARDN/
 
-- **“Preferred Dataset Citation”**, **"ARIS Log Number"**, **“ISO Topic(s)”**, and **“State or Territory”** – keep the same as the original dataset.
+- **â€œPreferred Dataset Citationâ€**, **"ARIS Log Number"**, **â€œISO Topic(s)â€**, and **â€œState or Territoryâ€** â€“ keep the same as the original dataset.
 
-- **“Program”** – Select “ARDN” from the pull-down menu.
+- **â€œProgramâ€** â€“ Select â€œARDNâ€ from the pull-down menu.
 
 ---
 ### Additional entries:
-- **“Collection”** list the name of the main dataset.
+- **â€œCollectionâ€** list the name of the main dataset.
 
-- **“Highlight image”**, **“Bureau Code”**, **“Program Code”** – leave blank
+- **â€œHighlight imageâ€**, **â€œBureau Codeâ€**, **â€œProgram Codeâ€** â€“ leave blank
 
-- **“Publisher”** – should be autofilled as “Ag Data Commons”. 
+- **â€œPublisherâ€** â€“ should be autofilled as â€œAg Data Commonsâ€. 
 
-- **“Revision information”** – can be filled when files or metadata are added, amended. This would include any automated addition of SC3, ACEB files, or model-specific files.
+- **â€œRevision informationâ€** â€“ can be filled when files or metadata are added, amended. This would include any automated addition of SC3, ACEB files, or model-specific files.
 
 ---
 ### Save the metadata
 
-Click **“Save”**. 
+Click **â€œSaveâ€**. 
 
-When the metadata are complete and the data file(s) have been uploaded, click **“Submit for Review”**.
+When the metadata are complete and the data file(s) have been uploaded, click **â€œSubmit for Reviewâ€**.
 
 ---
 ## Step 3. Add the SC2 file
-From the ARDN products metadata page, click **“+ Add Resource”**, at the top of the page to upload the SC2 file.
+From the ARDN products metadata page, click **â€œ+ Add Resourceâ€**, at the top of the page to upload the SC2 file.
 
-You can browse for a file or drag it onto the "Upload" window. The name of the SC2 should match the data file name with “-sc2.json” appended. This is done automatically by VMapper and the user generally will not change this name.
+You can browse for a file or drag it onto the "Upload" window. The name of the SC2 should match the data file name with â€œ-sc2.jsonâ€ appended. This is done automatically by VMapper and the user generally will not change this name.
 
-Leave blank **“Data previews”**, **“Delimiter”**, and **“Embed”** fields.
+Leave blank **â€œData previewsâ€**, **â€œDelimiterâ€**, and **â€œEmbedâ€** fields.
 
-In the **“Title”** field, enter: 
+In the **â€œTitleâ€** field, enter: 
 >"ARDN SC2 for  `parent dataset name`"
 
-In the **“Description”** field, enter: 
->“ARDN sidecar 2 file which allows dataset to be automatically interpreted and translated to end user formats.”
+In the **â€œDescriptionâ€** field, enter: 
+>â€œARDN sidecar 2 file which allows dataset to be automatically interpreted and translated to end user formats.â€
 
-For **“Format”**, select “json” from the pull-down menu
+For **â€œFormatâ€**, select â€œjsonâ€ from the pull-down menu
 
-In the **“Recommended software”** field, enter:
+In the **â€œRecommended softwareâ€** field, enter:
 >AgMIP / ARDN Data Factory	https://data.agmip.org/ardn/tools/data_factory 
 
-**“Dataset”** should refer to the original dataset related to this SC2.
 
-**“URL path settings”** – Check “Generate automatic URL alias”
+**â€œDatasetâ€** should refer to the original dataset related to this SC2.
+
+**â€œURL path settingsâ€** â€“ Check â€œGenerate automatic URL aliasâ€
 
 ---
 ### Save your resource file
 
-**“Save”**
+**â€œSaveâ€**
 
 You might get a message that the resource has been added.
 
@@ -122,3 +125,5 @@ You might get a message that the resource has been added.
 ## Step 4. Procedures for generation and upload of SC3, ACEB files
 
  To manually upload additional files, follow instructions for adding the SC2 file as a resource to the existing dataset (step 3).
+
+-->
