@@ -6,7 +6,7 @@ VMapper allows a user to interactively annotate their dataset and align vocabula
 Detailed VMapper documentation can be found **[here](https://docs.google.com/document/d/1ezs4uFWI66R-gywdKB56io1YrKVKKTvs-ynFZkebm9k/edit#heading=h.ykr4v1egu9xf)**.
 
 ### Online VMapper
-VMapper is currently an online tool, available at: [https://vmapper.herokuapp.com/tools/vmapper](https://vmapper.herokuapp.com/tools/vmapper). 
+VMapper is currently an online tool, available at: [data.agmip.org/ardn/tools/vmapper](https://data.agmip.org/ardn/tools/vmapper). 
 
 #### Steps in using VMapper
 1. The user selects the dataset to be mapped. This could be one or more Excel spreadsheets, comma-delimited files, or tab-delimited files. All tables in the dataset must be organized by TidyData principles: each variable is a column, each observation is a row, and each type of observational unit is a table.
