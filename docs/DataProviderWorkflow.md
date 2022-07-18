@@ -13,23 +13,21 @@ A researcher wanting to ARDN-ize their data would first prepare the data for arc
 
 - [VMapper](VMapper.md) is used to map the variables in the dataset to the ICASA vocabulary terms. The units of the raw data are declared so that they can be converted to ICASA-compliant units at the time of translation.
 
-- The end result of VMapper is a Sidecar 2 file or [SC2](Annotation_SC2.md), a data annotation file in JSON format. This is may not be the final version of SC2 as it does not yet contain the links to the dataset archived on Ag Data Commons. However, if the dataset being mapped has already been archived with a permanent digital object identifier (DOI) or other permanent link, then the SC2 can be finalized at this stage. 
+- The end result of VMapper is a Sidecar 2 file or [SC2](Annotation_SC2.md), a data annotation file in JSON format. This is may not be the final version of SC2 as it does not yet contain the links to the dataset archived on Ag Data Commons.  
 
-**Step 2. Upload to Ag Data Commons**
+**Step 2. Upload and publish on Ag Data Commons**
 
-When the dataset is prepared and annotated, it can be registered and uploaded to Ag Data Commons. A user must have a free account on Ag Data Commons. A very clear [Data Submissions Manual](https://data.nal.usda.gov/ag-data-commons-data-submission-manual) is provided to assist users in the process of creating metadata and uploading data files. The user decides when the metadata and dataset are ready for review.
-
-**Step 3. Dataset Review and Publication**
+When the dataset is prepared and annotated, it can be registered and uploaded to Ag Data Commons. (First your must register for a free account on Ag Data Commons.) A very clear [Data Submissions Manual](https://data.nal.usda.gov/ag-data-commons-data-submission-manual) is provided to assist users in the process of creating metadata and uploading data files. The user decides when the metadata and dataset are ready for review.
 
 The metadata goes through a curation review process and when ready, the dataset is published and a DOI is assigned (optional).
 
-**Step 4. Finalize and upload the SC2 dataset**
+**Step 3. Finalize, upload, and publish the SC2 dataset**
 
 Once the dataset has been published and a DOI assigned, the SC2 file can be modified to include the actual link to the dataset on Ag Data Commons. This step is optional because the SC2 file could also be applied to the downloaded dataset on a local computer drive rather than accessing it directly from Ag Data Commons at the time of translation.
 
-A new dataset is created for the SC2 and other associated ARDN products by cloning the metadata from the original dataset. See the detailed ["Steps to creating an ARDN Products dataset"](ARDN_products.md).
+A new dataset is created for the SC2 and other associated ARDN products by cloning and modifying the metadata from the original dataset. See the detailed ["Steps to creating an ARDN Products dataset"](ARDN_products.md).
 
-**Step 6. Additional ARDN Products**
+**Step 4. Additional ARDN Products**
 
 Additional ARDN products can be optionally created and uploaded to the ARDN Products dataset. 
 - SC3 - The sidecar 3 file includes a sub-set of the dataset which can be used by Ag Data Commons for advanced search functions.
