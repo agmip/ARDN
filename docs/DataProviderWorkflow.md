@@ -2,6 +2,9 @@
 
 The diagram below presents a typical workflow for an ARDN data provider sharing data through [Ag Data Commons (ADC)](https://data.nal.usda.gov/).
 
+
+![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/DataProviderWorkflow_v6.jpg)
+
 **Step 1. Data preparation**
 
 A researcher wanting to ARDN-ize their data would first prepare the data for archiving on their local computer or server. If the dataset has already been archived on ADC, this step may not be necessary. However, for complex datasets, some data manipulation may be required in order to establish relational linkages within the dataset, which is a necessary element of ARDN.
@@ -19,10 +22,6 @@ When the dataset is prepared and annotated, it can be registered and uploaded to
 **Step 3. Dataset Review and Publication**
 
 The metadata goes through a curation review process and when ready, the dataset is published and a DOI is assigned (optional).
-
-
-![image](https://raw.githubusercontent.com/agmip/ARDN/master/docs/images/DataProviderWorkflow_web.jpg)
-
 
 **Step 4. Finalize and upload the SC2 dataset**
 
