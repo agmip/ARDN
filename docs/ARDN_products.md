@@ -73,7 +73,6 @@ The **“Geographic coverage”**, **“Spatial Description”**, **"Frequency�
 
 - **“Program”** – Select “ARDN” from the pull-down menu.
 
-<!-- 
 ---
 ### Additional entries:
 - **“Collection”** list the name of the main dataset.
@@ -127,4 +126,3 @@ You might get a message that the resource has been added.
 
  To manually upload additional files, follow instructions for adding the SC2 file as a resource to the existing dataset (step 3).
 
--->
