@@ -41,7 +41,6 @@ The **“Geographic coverage”**, **“Spatial Description”**, **"Frequency�
 
 **“Resources”** are autofilled from the cloned dataset.
 
-<!-- 
 ---
 ### “Extended Metadata” block
 **“Authors”** will usually be different from authors of the original dataset. Use this field to give credit to the people who generated the SC2 file and other associated ARDN product files.
@@ -74,6 +73,7 @@ The **“Geographic coverage”**, **“Spatial Description”**, **"Frequency�
 
 - **“Program”** – Select “ARDN” from the pull-down menu.
 
+<!-- 
 ---
 ### Additional entries:
 - **“Collection”** list the name of the main dataset.
