@@ -2,7 +2,7 @@
 
 This failed to compile. Temporarily disable content.
 
-<!--A data provider creates an SC2 file for the dataset that they want to include in the ARDN network. The SC2 file contains the link to the dataset, either stored on ADC or on a remote repository. A separate dataset is created on ADC to contain the SC2 and other ARDN-related data products (such as SC3, ACEB, model-ready files, etc.). The steps to create this ARDN dataset are described below. Unless stated otherwise, existing fields should not be changed.
+A data provider creates an SC2 file for the dataset that they want to include in the ARDN network. The SC2 file contains the link to the dataset, either stored on ADC or on a remote repository. A separate dataset is created on ADC to contain the SC2 and other ARDN-related data products (such as SC3, ACEB, model-ready files, etc.). The steps to create this ARDN dataset are described below. Unless stated otherwise, existing fields should not be changed.
 
 ## Step 1. Clone the metadata for the dataset being ARDN-ized. 
 
@@ -10,7 +10,7 @@ Click on the “Clone dataset” button at top of dataset to be cloned. Click on
 
 ## Step 2. Modify the metadata
 
-### First block
+<!-- ### First block
 In the **“Title”** section, remove the *“clone of”* at the beginning of the title. Keep the title and add *“: ARDN Products”* at the end.
 
 In the **“Summary”** field, add the following text at the beginning of the summary: 
