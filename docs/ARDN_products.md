@@ -13,14 +13,14 @@ Click on the “Clone dataset” button at top of dataset to be cloned. Click on
 ### First block
 In the **“Title”** section, remove the *“clone of”* at the beginning of the title. Keep the title and add *“: ARDN Products”* at the end.
 
-<!-- In the **“Summary”** field, add the following text at the beginning of the summary: 
+In the **“Summary”** field, add the following text at the beginning of the summary: 
 
 >“ARDN (Agricultural Research Data Network) annotations for `"parent dataset name"`. The ARDN project (https://data.nal.usda.gov/ardn) is a network of datasets harmonized and aggregated using the ICASA vocabulary, as recommended by USDA NAL (https://data.nal.usda.gov/data-dictionary-examples) and described in detail here:  www.tinyurl.com/icasa-mvl”. 
 
 The remaining summary may be left from the original, or it may be modified as you prefer.
 
 
-In the **“Description”** section, add the following text: 
+<!-- In the **“Description”** section, add the following text: 
 
 >“ARDN provides dataset annotations which facilitate interoperability. For information on how to use ARDN annotations and other data products, see https://agmip.github.io/ARDN/ARDN_how.html.” 
 
