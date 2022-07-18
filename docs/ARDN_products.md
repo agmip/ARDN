@@ -20,7 +20,7 @@ In the **“Summary”** field, add the following text at the beginning of the s
 The remaining summary may be left from the original, or it may be modified as you prefer.
 
 
-<!-- In the **“Description”** section, add the following text: 
+In the **“Description”** section, add the following text: 
 
 >“ARDN provides dataset annotations which facilitate interoperability. For information on how to use ARDN annotations and other data products, see https://agmip.github.io/ARDN/ARDN_how.html.” 
 
@@ -28,7 +28,7 @@ The remainder of the Description should be identical to that of the original dat
 
 **“Tags”** and **“Groups”** are autofillled from the cloned dataset. Leave these as-is.
 
-**“License”** – Select CC0 (or your choice, but this should be an opensource license).
+**“License”** – Select CC0 (or your choice, but this should be an open source license).
 
 ---
 ### “Dataset Information” block
@@ -41,6 +41,7 @@ The **“Geographic coverage”**, **“Spatial Description”**, **"Frequency�
 
 **“Resources”** are autofilled from the cloned dataset.
 
+<!-- 
 ---
 ### “Extended Metadata” block
 **“Authors”** will usually be different from authors of the original dataset. Use this field to give credit to the people who generated the SC2 file and other associated ARDN product files.
