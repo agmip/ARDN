@@ -95,7 +95,7 @@ You can browse for a file or drag it onto the "Upload" window. The name of the S
 Leave blank **“Data previews”**, **“Delimiter”**, and **“Embed”** fields.
 
 In the **“Title”** field, enter: 
->"ARDN SC2 for  `parent dataset name`"
+>"ARDN SC2 for `parent dataset name`"
 
 In the **“Description”** field, enter: 
 >“ARDN sidecar 2 file which allows dataset to be automatically interpreted and translated to end user formats.”
@@ -103,8 +103,7 @@ In the **“Description”** field, enter:
 For **“Format”**, select “json” from the pull-down menu
 
 In the **“Recommended software”** field, enter:
->AgMIP / ARDN Data Factory	https://data.agmip.org/ardn/tools/data_factory 
-
+>AgMIP / ARDN Data Factory;	https://data.agmip.org/ardn/tools/data_factory 
 
 **“Dataset”** should refer to the original dataset related to this SC2.
 
