@@ -21,16 +21,17 @@ Links to additional resources for ARDN data providers:
 * [DSSAT](https://dssat.net/)
 * [APSIM](https://www.apsim.info/)
 * [SarraH](http://iopscience.iop.org/1748-9326/8/1/014040/article)
-* [STICS](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/advagricsystmodel2.c14)
+* [InfoCrop](https://www.quantitative-plant.org/model/InfoCrop)
 * [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm)
 * [CropGrow-NAU](https://en.cnki.com.cn/Article_en/CJFDTotal-NYGU200701024.htm)
 * [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/cropsyst/index.html)
 
 All of these model-specific translators have been wrapped into a desktop user interface, QuadUI, developed by AgMIP, which can be downloaded **[here](https://github.com/agmip/quadui/releases)**. 
 
-Links to additional resources for end users of ARDN data:
-- [AgMIP data tools](http://tools.agmip.org/)
-- [How to use an AgMIP formatted ACEB or JSON file](https://github.com/agmip/ARDN/blob/master/docs/images/How%20to%20use%20an%20AgMIP%20formatted%20aceb%20or%20json%20file_v2.pdf)
+A browser-based version of QuadUI has been developed as part of the ARDN project. The ["Data Factory"](https://data.agmip.org/ardn/tools/data_factory) can be accessed here:
+[data.agmip.org/ardn/tools/data_factory](https://data.agmip.org/ardn/tools/data_factory).
+
+For more detail, see **[Data End User Workflow](DataEndUserWorkflow.md)**.
 
 ---
 
