@@ -1,6 +1,6 @@
 # Site Map
 
-Home page [agmip.github.io/ARDN](index.md)
+[ARDN Home page](index.md)
 1. [ARDN_why.md](ARDN_why.md)
 2. [ARDN_what.md](ARDN_what.md)
    - [Annotation.md](Annotation.md)
@@ -14,6 +14,6 @@ Home page [agmip.github.io/ARDN](index.md)
        - [ARDN_products.md](ARDN_products.md)
      - [DataEndUserWorkflow.md](DataEndUserWorkflow.md)
        - [DataTranslationAPI.md](DataTranslationAPI.md)
-       - [AgMIP_translators](AgMIP_translators)
+       - [AgMIP_translators](https://agmip.github.io/AgMIP_translators.html)
      - [SearchTools.md](SearchTools.md)
 4. [Glossary.md](Glossary.md)
