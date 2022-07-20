@@ -21,6 +21,10 @@ VMapper is currently an online tool, available at: [data.agmip.org/ardn/tools/vm
 	- Fertilizer and nutrient data can be expressed as either elemental or common molecular formats. Conversions from molecular to elemental form will be handled at translation. For example, a fertilizer amount may be specified with units of P2O5 (phosphate)
 1. When a dataset has been fully annotated, the template file (SC2) is saved.
 	
+### VMapper Exercise
+If you want to try VMapper for yourself, you can download an exercise demonstrating step-by-step how to use the software from the link below.
+[VMapper Exercise]()
+
 ### Ag Data Commons VMapper API
 An API available through Ag Data Commons is currently under development. This API will allow ARDN data contributors to annotate their data directly through the Ag Data Commons interface.
 
