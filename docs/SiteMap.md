@@ -1,19 +1,19 @@
 # Site Map
-	
-	index.md (agmip.github.io/ARDN main page)
-	 ├── ARDN_why.md
-	 ├── ARDN_what.md
-	 │   ├── Annotation.md
-	 │   │   ├── Annotation_SC1.md
-	 │   │   ├── Annotation_SC2.md
-	 │   │   └── Annotation_SC3.md
-	 ├── ARDN_how.md 
-	 │   ├── DataProviderWorkflow.md
-	 │   │   ├── TidyData.md
-	 │   │   ├── VMapper.md
-	 │   │   └── ARDN_products.md
-	 │   ├── DataEndUserWorkflow.md
-	 │   │   ├── DataTranslationAPI.md
-	 │   │   └── AgMIP_translators
-	 │   └── SearchTools.md
-	 └── Glossary.md
+
+Home page [agmip.github.io/ARDN](index.md)
+1. [ARDN_why.md](ARDN_why.md)
+2. [ARDN_what.md](ARDN_what.md)
+   - [Annotation.md](Annotation.md)
+     - [Annotation_SC1.md](Annotation_SC1.md)
+     - [Annotation_SC2.md](Annotation_SC2.md)
+     - [Annotation_SC3.md](Annotation_SC3.md)
+3. [ARDN_how.md](ARDN_how.md)
+     - [DataProviderWorkflow.md](DataProviderWorkflow.md)
+       - [TidyData.md](TidyData.md)
+       - [VMapper.md](VMapper.md)
+       - [ARDN_products.md](ARDN_products.md)
+     - [DataEndUserWorkflow.md](DataEndUserWorkflow.md)
+       - [DataTranslationAPI.md](DataTranslationAPI.md)
+       - [AgMIP_translators](AgMIP_translators)
+     - [SearchTools.md](SearchTools.md)
+4. [Glossary.md](Glossary.md)
