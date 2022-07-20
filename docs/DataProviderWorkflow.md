@@ -45,3 +45,6 @@ These files should be zipped together as a single upload. It is possible to have
 
 
 [Home](index.md)
+
+[Site map](SiteMap.md)
+

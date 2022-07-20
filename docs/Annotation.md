@@ -93,3 +93,5 @@ A more detailed description of SC3 can be found **[here](Annotation_SC3.md)**.
 
 [Home](index.md)
 
+[Site map](SiteMap.md)
+

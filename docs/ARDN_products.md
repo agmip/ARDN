@@ -121,3 +121,7 @@ You might get a message that the resource has been added.
 
  To manually upload additional files, follow instructions for adding the SC2 file as a resource to the existing dataset (step 3).
 
+[Home](index.md)
+
+[Site map](SiteMap.md)
+

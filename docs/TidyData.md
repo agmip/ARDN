@@ -11,5 +11,8 @@ The concept of "tidy data" was developed by Hadley Wickham and describes simple 
 
 [Home](index.md)
 
+[Site map](SiteMap.md)
+
+
 
 
