@@ -23,7 +23,8 @@ VMapper is currently an online tool, available at: [data.agmip.org/ardn/tools/vm
 	
 ### VMapper Exercise
 If you want to try VMapper for yourself, you can download an exercise demonstrating step-by-step how to use the software from the link below.
-[VMapper Exercise]()
+
+[VMapper Exercise](https://github.com/agmip/ARDN/raw/master/docs/extras/VMapper_Exercise.zip)
 
 ### Ag Data Commons VMapper API
 An API available through Ag Data Commons is currently under development. This API will allow ARDN data contributors to annotate their data directly through the Ag Data Commons interface.
