@@ -1,4 +1,6 @@
-	[agmip.github.io/ARDN](index.md)
+# Site Map
+	
+	index.md (agmip.github.io/ARDN main page)
 	 ├── ARDN_why.md
 	 ├── ARDN_what.md
 	 │   ├── Annotation.md
