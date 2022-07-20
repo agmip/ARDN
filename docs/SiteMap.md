@@ -13,7 +13,6 @@
        - [VMapper.md](VMapper.md)
        - [ARDN_products.md](ARDN_products.md)
      - [DataEndUserWorkflow.md](DataEndUserWorkflow.md)
-       - [DataTranslationAPI.md](DataTranslationAPI.md)
-       - [AgMIP_translators](https://agmip.github.io/AgMIP_translators.html)
+     - [DataTranslationAPI.md](DataTranslationAPI.md)
      - [SearchTools.md](SearchTools.md)
 4. [Glossary.md](Glossary.md)
